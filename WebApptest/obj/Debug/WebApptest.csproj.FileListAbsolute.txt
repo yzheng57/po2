@@ -1,0 +1,14 @@
+C:\Projects\WebApplication3\WebApptest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Projects\WebApplication3\WebApptest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Projects\WebApplication3\WebApptest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Projects\WebApplication3\WebApptest\bin\Debug\WebApptest.dll
+C:\Projects\WebApplication3\WebApptest\bin\Debug\WebApptest.pdb
+C:\Projects\WebApplication3\WebApptest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Projects\WebApplication3\WebApptest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Projects\WebApplication3\WebApptest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Projects\WebApplication3\WebApptest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Projects\WebApplication3\WebApptest\obj\Debug\WebApptest.csprojAssemblyReference.cache
+C:\Projects\WebApplication3\WebApptest\obj\Debug\WebApptest.csproj.CoreCompileInputs.cache
+C:\Projects\WebApplication3\WebApptest\obj\Debug\WebApptest.csproj.CopyComplete
+C:\Projects\WebApplication3\WebApptest\obj\Debug\WebApptest.dll
+C:\Projects\WebApplication3\WebApptest\obj\Debug\WebApptest.pdb
